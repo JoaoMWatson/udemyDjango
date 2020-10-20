@@ -1,8 +1,0 @@
-criar virtual env = "python3 -m venv "nome da venv"
-
-ativando o venv = source nomeDaVenv/bin/activate
-
-criando projeto python = django-admin startproject "nome projeto"
-
-rodar projeto = python manage.py runserver
-
